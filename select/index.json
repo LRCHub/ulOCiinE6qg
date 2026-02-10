@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "22",
+  "base_artist": "LUCKY TAPES",
+  "createdAt": "2026-02-10T03:12:06.114893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "22",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_22_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "22",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_22_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "22",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/03_22_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "22 - Acoustic",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/04_22_-_Acoustic_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "22 [Acoustic]",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/05_22_[Acoustic]_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "22 (OVER S∞∞N)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/06_22_(OVER_S∞∞N)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "22 (OVER S∞∞N) [Bob Moose Extended Cab Version]",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/07_22_(OVER_S∞∞N)_[Bob_Moose_Extended_Cab_Version]_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "22 (Over S∞∞N) (Bob Moose Extended Cab Version)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/08_22_(Over_S∞∞N)_(Bob_Moose_Extended_Cab_Version)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Example #22",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/09_Example__22_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "22 Acacia Avenue",
+      "artist": "Iron Maiden",
+      "has_synced": false,
+      "path": "select/10_22_Acacia_Avenue_Iron_Maiden.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "22 Acacia Avenue",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/11_22_Acacia_Avenue_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Section 22 [Running Away]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/12_Section_22_[Running_Away]_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
+      "artist": "Central Cee feat. Rondodasosa, Freeze corleone, Baby Gang, A2 Anti, Morad, Beny Jr & ASHE 22",
+      "has_synced": true,
+      "path": "select/13_Eurovision_(feat._Rondodasosa,_Baby_Gang,_A2_Anti,_Morad,_Beny_Jr,_Ashe_22_&_Fre_Central_Cee_feat._Rondodasosa,_Freeze_corleone,_Baby_Gang,_A2_Anti,_Morad,_Beny_.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/14_Eurovision_(feat._Rondodasosa,_Baby_Gang,_A2_Anti,_Morad,_Beny_Jr,_Ashe_22_&_Fre_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drum Solo - Live at Portland Memorial Coliseum, Portland, OR, 4/22/1982",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/15_Drum_Solo_-_Live_at_Portland_Memorial_Coliseum,_Portland,_OR,_4_22_1982_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "22 Going On 23",
+      "artist": "Butthole Surfers",
+      "has_synced": true,
+      "path": "select/16_22_Going_On_23_Butthole_Surfers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "22 Break",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/17_22_Break_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "22 Make",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/18_22_Make_Oh_Wonder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "22",
+      "artist": "LUCKY TAPES",
+      "has_synced": false,
+      "path": "select/pl_01_22_LUCKY_TAPES.txt"
+    }
+  ]
+}
